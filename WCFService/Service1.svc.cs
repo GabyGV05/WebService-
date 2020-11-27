@@ -12,7 +12,7 @@ namespace WCFService
     // NOTE: para iniciar el Cliente de prueba WCF para probar este servicio, seleccione Service1.svc o Service1.svc.cs en el Explorador de soluciones e inicie la depuración.
     public class Service1 : IService1
     {
-
+   
         public Peliculas ObtenerDatosPeliculas(Peliculas pelicula)
         {
             return pelicula;
@@ -24,21 +24,29 @@ namespace WCFService
             pelicula1.Director = "Will Gluck";
             pelicula1.Duracion = 2;
             pelicula1.Calificacion = 5;
-    
+            pelicula1.Error = "Pelicula Encontrada";
+
+
             Peliculas pelicula2 = new Peliculas();
             pelicula2.Nombre = "La Bella y la Bestia";
             pelicula2.Director = "Bill Condon";
             pelicula2.Duracion = 3;
             pelicula2.Calificacion = 4;
+            pelicula2.Error = "Pelicula Encontrada";
 
             Peliculas pelicula3 = new Peliculas();
             pelicula3.Nombre = "Avengers";
             pelicula3.Director = "Joe y Anthony Russo";
             pelicula3.Duracion = 3;
             pelicula3.Calificacion = 5;
+            pelicula3.Error = "Pelicula Encontrada";
 
             Peliculas noEncontrada = new Peliculas();
-            noEncontrada.Error = "Pelicula No Encontrada";
+            noEncontrada.Nombre = "Titulo no registrado";
+            noEncontrada.Director = "Desconocido";
+            noEncontrada.Duracion = 0;
+            noEncontrada.Calificacion = 0;
+            noEncontrada.Error = " Error Pelicula No Encontrada";
 
             if (nomPelicula == "Petter Rabit")
             {

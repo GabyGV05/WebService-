@@ -1,0 +1,10 @@
+C:\Users\Gabriela\source\repos\WCFService\interfazCliente\bin\Debug\interfazCliente.exe.config
+C:\Users\Gabriela\source\repos\WCFService\interfazCliente\bin\Debug\interfazCliente.exe
+C:\Users\Gabriela\source\repos\WCFService\interfazCliente\bin\Debug\interfazCliente.pdb
+C:\Users\Gabriela\source\repos\WCFService\interfazCliente\obj\Debug\interfazCliente.csprojAssemblyReference.cache
+C:\Users\Gabriela\source\repos\WCFService\interfazCliente\obj\Debug\interfazCliente.Form1.resources
+C:\Users\Gabriela\source\repos\WCFService\interfazCliente\obj\Debug\interfazCliente.Properties.Resources.resources
+C:\Users\Gabriela\source\repos\WCFService\interfazCliente\obj\Debug\interfazCliente.csproj.GenerateResource.cache
+C:\Users\Gabriela\source\repos\WCFService\interfazCliente\obj\Debug\interfazCliente.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\WCFService\interfazCliente\obj\Debug\interfazCliente.exe
+C:\Users\Gabriela\source\repos\WCFService\interfazCliente\obj\Debug\interfazCliente.pdb

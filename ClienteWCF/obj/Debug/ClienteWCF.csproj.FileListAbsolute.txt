@@ -1,0 +1,6 @@
+C:\Users\Gabriela\source\repos\WCFService\ClienteWCF\bin\Debug\ClienteWCF.exe
+C:\Users\Gabriela\source\repos\WCFService\ClienteWCF\bin\Debug\ClienteWCF.pdb
+C:\Users\Gabriela\source\repos\WCFService\ClienteWCF\obj\Debug\ClienteWCF.csprojAssemblyReference.cache
+C:\Users\Gabriela\source\repos\WCFService\ClienteWCF\obj\Debug\ClienteWCF.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\WCFService\ClienteWCF\obj\Debug\ClienteWCF.exe
+C:\Users\Gabriela\source\repos\WCFService\ClienteWCF\obj\Debug\ClienteWCF.pdb
